@@ -2,7 +2,7 @@
 
 ## The team
 
-- Foo bar: email1
-- bar bar: email2
+- saber ayoub: saber-ayoub@live.fr	
+- elouardi mohammed: elouardi.mohamed@gmail.com
 
 ## Comments
